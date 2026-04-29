@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Toalha",
+      "price": 25.45,
+      "id": 8
+    },
+    {
+      "name": "Jaqueta",
+      "price": 599.99,
+      "id": 11
+    },
+    {
+      "name": "Moletom",
+      "price": 245.99,
+      "id": 12
+    },
+    {
+      "name": "Jeans",
+      "price": 99.99,
+      "id": 13
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+
+    ul {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 5rem;
+        padding: auto;
+        list-style: none;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+    a:hover {
+        color: #ccc;
+    }
+
+    .active {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 5px;
+    }
+}
+
